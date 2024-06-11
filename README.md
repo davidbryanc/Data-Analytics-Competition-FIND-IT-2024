@@ -1,4 +1,4 @@
-# Data Analytics Competition FIND IT 2024
+# Predicting Customer Promotion Acceptance Using Machine Learning
 
 ## Description
 
