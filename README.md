@@ -23,6 +23,10 @@ The model's performance is evaluated using the Macro F-Score. The Public Leaderb
 - `test_features.csv`: Test data features
 - `submission_format.csv`: Format for submissions
 
+## Result
+
+Macro F-Score: 0.895
+
 ## Team Member
 | Name | University |
 |:----------------:|---------------------------|
